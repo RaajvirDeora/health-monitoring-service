@@ -1,9 +1,9 @@
 # Health Monitoring Service
 
-**Intern ID:** CITS2241
-**Full Name:** Raajvir Deora
-**No. of Weeks:** 6
-**Project Name:** Health Monitoring Service
+**Intern ID:** CITS2241             
+**Full Name:** Raajvir Deora          
+**No. of Weeks:** 6         
+**Project Name:** Health Monitoring Service           
 **Project Scope:** Build a backend service that registers external endpoints,
 periodically checks their availability, and exposes their status/uptime
 history via a REST API.
